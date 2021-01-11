@@ -20,3 +20,4 @@ class Solution {
         }
         return A[A.Length - 1] + 1;
     }
+}
