@@ -9,3 +9,4 @@
 # LeetCode
 * AddTwoNumbers.cs https://leetcode.com/problems/add-two-numbers/
 * ReducingDishes.cs https://leetcode.com/problems/reducing-dishes/
+* GroupPeopleSize.cs https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
