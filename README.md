@@ -8,3 +8,4 @@
 
 # LeetCode
 * AddTwoNumbers.cs https://leetcode.com/problems/add-two-numbers/
+* ReducingDishes.cs https://leetcode.com/problems/reducing-dishes/
